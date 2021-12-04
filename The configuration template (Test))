@@ -396,7 +396,7 @@ interface VLAN A
 !         
 !         
 !         
-ip route 0.0.0.0 0.0.0.0 x.x.x.x //到汇聚或出口核心设备的静态路由
+ip route 0.0.0.0 0.0.0.0 x.x.x.x //到汇聚或出口核心设备的默认路由
 !         
 !         
 snmp-server community ******** 
